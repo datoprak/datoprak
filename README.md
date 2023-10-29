@@ -26,8 +26,7 @@
 
 <br/><br/>
 
-<img alt="datoprak's streak" src="https://streak-stats.demolab.com?user=datoprak&theme=dark&background=1F222E&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D"/>
-
+<a href="https://git.io/streak-stats"><img alt="datoprak's streak" src="https://streak-stats.demolab.com?user=datoprak&theme=dark&background=1F222E&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D"/></a>
 
 <!--
 **datoprak/datoprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
