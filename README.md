@@ -2,7 +2,7 @@
 
 <h2>Software Developer</h2>
 
-<p>I transitioned into coding after a career in civil engineering. I began my journey with Angela Yu's Web Development Bootcamp and continued learning through The Odin Project. To strengthen my understanding of computer science fundamentals, I completed Harvard University's CS50’s Introduction to Computer Science. I'm now working as a Frontend Developer at Hepsiburada.</p>
+<p>I transitioned into software development after a career in civil engineering. I began my journey with Angela Yu's Web Development Bootcamp and continued learning through The Odin Project. To strengthen my understanding of computer science fundamentals, I completed Harvard University's CS50’s Introduction to Computer Science. I'm now working as a Frontend Developer at Hepsiburada.</p>
 
 <ul>
   <li>🚀 I'm currently working on Hepsiburada</li>
